@@ -1,4 +1,4 @@
-## Hey! Welcome to my profile.
+## <center>Hey! Welcome to my profile.</center>
 
 <!---
 wanghs008/wanghs008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
