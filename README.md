@@ -1,4 +1,4 @@
-<center>Hey! Welcome to my profile.</center>
+<div align='center' ><font size='70'>实习总结报告</font></div>
 
 <font color=red size=72>颜色</font>
 
