@@ -1,4 +1,4 @@
-<div align='center'><font size='1'><big><b>Hey! Welcome to my profile.</b></big></font></div>
+<div align='center'><font size='12'><big><b>Hey! Welcome to my profile.</b></big></font></div>
 
 <br><br/>
 
