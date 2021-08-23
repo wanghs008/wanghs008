@@ -1,6 +1,4 @@
-<div align='center'># Hey! Welcome to my profile.</div>
-
-<center># Hey! Welcome to my profile.</center>
+<div align='center'><font size='70'># Hey! Welcome to my profile.</font></div>
 
 ![text](https://github.com/wanghs008/wanghs008/blob/main/whs_1.jpg)
 
