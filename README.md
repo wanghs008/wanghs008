@@ -6,7 +6,7 @@
 ![text](https://github.com/wanghs008/wanghs008/blob/main/whs_1.jpg)
 --->
 
-<div align=center><img width="160" height="90" src="https://github.com/wanghs008/wanghs008/blob/main/whs_1.jpg" alt="欢迎"/></div>
+<div align=center><img width="480" height="270" src="https://github.com/wanghs008/wanghs008/blob/main/whs_1.jpg" alt="欢迎"/></div>
 
 <!---
 wanghs008/wanghs008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
